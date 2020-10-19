@@ -6,8 +6,8 @@ namespace POO
 {
     class Persona
     {
-        private string nombre=null;
-        private string apellido=null;
+        private string nombre;
+        private string apellido;
 
         public Persona(string nombre, string apellido)
         {
